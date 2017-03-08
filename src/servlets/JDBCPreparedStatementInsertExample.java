@@ -10,7 +10,7 @@ public class JDBCPreparedStatementInsertExample {
 	private static final String DB_DRIVER = "com.mysql.jdbc.Driver";
 	private static final String DB_CONNECTION = "jdbc:mysql:///Uyelik";
 	private static final String DB_USER = "root";
-	private static final String DB_PASSWORD = "***";
+	private static final String DB_PASSWORD = "123";
 
 	public static void insertRecordIntoTable(MyUser user) throws SQLException {
 
